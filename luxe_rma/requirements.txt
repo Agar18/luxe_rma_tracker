@@ -1,0 +1,10 @@
+Flask
+Flask-Mail
+Flask-Cors
+Flask-SQLAlchemy
+Flask-Migrate
+python-dotenv
+Werkzeug
+psycopg2-binary
+PyJWT
+pytest

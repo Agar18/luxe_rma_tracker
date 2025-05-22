@@ -1,0 +1,7 @@
+Hello {{ user_name }},
+
+This is a status update for your RMA ({{ rma_number }}):
+Current Status: {{ status }}
+
+Thank you,
+Luxe Paintball Support

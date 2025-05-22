@@ -1,0 +1,13 @@
+# Python
+luxe_rma/__pycache__/
+luxe_rma/venv/
+luxe_rma/.env
+
+# Node/React
+luxe_rma_client/node_modules/
+luxe_rma_client/dist/
+
+# General
+.DS_Store
+.env
+*.log
